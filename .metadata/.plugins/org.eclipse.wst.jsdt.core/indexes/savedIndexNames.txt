@@ -1,8 +1,0 @@
-INDEX VERSION 1.4+C:\Users\akatta\eclipse-workspace_photon\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-2611560741.index
-1058873635.index
-3840582339.index
-2195836152.index
-540348965.index
-2628439586.index
-3184348229.index

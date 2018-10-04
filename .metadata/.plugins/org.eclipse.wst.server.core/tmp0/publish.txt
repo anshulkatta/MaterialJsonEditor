@@ -1,3 +1,0 @@
-#Module publish data
-#Mon Oct 01 12:14:07 IST 2018
-org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\akatta\\.m2\\repository\\org\\springframework\\spring-web\\4.0.3.RELEASE\\spring-web-4.0.3.RELEASE.jar=WEB-INF/lib/spring-web-4.0.3.RELEASE.jar
