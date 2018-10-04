@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\akatta\eclipse-workspace_photon\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1058873635.index
+\MaterialJsonEditor\src\main\java
+C:\Users\akatta\eclipse-workspace_photon\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3756680367.index
+\MaterialJsonEditor\src\main\java

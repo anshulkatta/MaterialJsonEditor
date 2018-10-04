@@ -1,0 +1,32 @@
+M.AutoInit();
+var elem = document.getElementById('modal1');
+var modalinstance = M.Modal.getInstance(elem);
+var container = document.getElementById("jsoneditor");
+var options = {};
+var editor = new JSONEditor(container, options);
+var json = {
+    "Array": [1, 2, 3],
+    "Boolean": true,
+    "Null": null,
+    "Number": 123,
+    "Object": {
+        "a": "b",
+        "c": "d"
+    },
+    "String": "Hello World"
+};
+editor.set(json);
+var json = editor.get();
+
+function setValuetoEditor() {
+    var json = document.getElementById("textarea1");
+    try {
+        var jsonval = JSON.parse(json.value)
+    } catch (e) {
+        modalinstance.open()
+    }
+    editor.set(jsonval)
+}
+function clearInput() {
+    $('#textarea1').val('')
+}
